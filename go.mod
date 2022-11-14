@@ -21,7 +21,7 @@ require (
 	github.com/blevesearch/go-porterstemmer v0.0.0-20141230013033-23a2c8e5cf1f // indirect
 	github.com/blevesearch/segment v0.0.0-20160105220820-db70c57796cc // indirect
 	github.com/boombuler/barcode v0.0.0-20161226211916-fe0f26ff6d26 // indirect
-	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
+	github.com/bradfitz/gomemcache v0.0.0-20221031212613-62deef7fc822
 	github.com/chaseadamsio/goorgeous v0.0.0-20170901132237-098da33fde5f // indirect
 	github.com/corbym/gocrest v1.0.3 // indirect
 	github.com/coreos/bbolt v1.3.3 // indirect
