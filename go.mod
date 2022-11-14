@@ -7,7 +7,7 @@ require (
 	code.gitea.io/gitea v1.9.0-dev
 	gitea.com/lunny/levelqueue v0.1.0 // indirect
 	gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
-	gitea.com/macaron/macaron v1.3.2
+	gitea.com/macaron/macaron v1.5.0
 	github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802 // indirect
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
 	github.com/PuerkitoBio/goquery v1.5.0 // indirect
@@ -169,7 +169,7 @@ require (
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
 	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
