@@ -94,7 +94,7 @@ require (
 	github.com/jmhodges/levigo v1.0.0 // indirect
 	github.com/joho/godotenv v1.3.0 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
-	github.com/kevinburke/ssh_config v0.0.0-20190725054713-01f96b0aa0cd
+	github.com/kevinburke/ssh_config v1.2.0
 	github.com/keybase/go-crypto v0.0.0-20170605145657-00ac4db533f6 // indirect
 	github.com/kisielk/errcheck v1.2.0 // indirect
 	github.com/klauspost/compress v0.0.0-20161025140425-8df558b6cb6f // indirect
