@@ -164,7 +164,7 @@ require (
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141 // indirect
 	github.com/urfave/cli v1.20.0 // indirect
 	github.com/willf/bitset v0.0.0-20180426185212-8ce1146b8621 // indirect
-	github.com/xanzy/ssh-agent v0.2.1
+	github.com/xanzy/ssh-agent v0.3.3
 	github.com/yohcop/openid-go v0.0.0-20160914080427-2c050d2dae53 // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
