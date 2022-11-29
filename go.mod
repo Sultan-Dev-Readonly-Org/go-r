@@ -41,7 +41,7 @@ require (
 	github.com/dgryski/go-sip13 v0.0.0-20190329191031-25c5027a8c7b // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/edsrzf/mmap-go v1.0.0 // indirect
-	github.com/emirpasic/gods v1.12.0
+	github.com/emirpasic/gods v1.18.1
 	github.com/etcd-io/bbolt v1.3.2 // indirect
 	github.com/ethantkoenig/rupture v0.0.0-20180203182544-0a76f03a811a // indirect
 	github.com/facebookgo/clock v0.0.0-20150410010913-600d898af40a // indirect
